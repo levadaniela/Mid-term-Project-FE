@@ -1,6 +1,9 @@
-# Project Week Front-End
+# My Mentor Log
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Group Project - Personal development application, built during a 1-week project in a team of 4 where users are able to keep track of mentor meetings using a custom-built notes application.
+
+
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
