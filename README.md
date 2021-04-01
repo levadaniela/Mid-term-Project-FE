@@ -2,72 +2,37 @@
 
 Group Project - Personal development application, built during a 1-week project in a team of 4 where users are able to keep track of mentor meetings using a custom-built notes application.
 
+![image](https://user-images.githubusercontent.com/70920006/113286217-cb3df980-92e3-11eb-9b11-3dcb35bb85a5.png)
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+A full-stack app aimed to provide more structure to meetings between Bootcampers and their Mentors. My focus on this project was on front-end, creating specific sections for the app, providing a structure when planning a meeting. We constructed a clean and modern front- end using React and create-react-app, implementing modules such as Luxon to handle the date/time.
 
-## Available Scripts
+## Our brief
+The brief we were given was to build an application which enhances the School of Code mentoring experience. Our user research found there is a lack of structure with regards to meteing with mentors, across multiple plaforms. A common problem was the inconsistency in organising meetings and a need for some more structure around the entire process, where all three parties (mentors, coaches and students) have more visibility.
 
-In the project directory, you can run:
+## Our Solution
+* Bootcamper journal to help the student to reflect on and articulate their SoC experience, so that they are able to have more meaningful discussions with their mentors.
+* Give clear discussion points to help them evaluate how they are doing, so that they can get help and advice during their regular sessions.
+* A place to keep track of meeting notes, goals, ideas and aspirations.
+* Provides structure to the meetings with a clear agenda.
+* Future ambition - Also to give the coaches visibility of if the meetings are taking place on a regular basis and how they are going.
 
-### `npm start`
+## Live Project
+Here is the ![deployed version](https://mymentorlog.netlify.app).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tech Stack
+* React - initialised with Create React App
+* Luxon
+* Material UI
+*React Router DOM
+*React Testing Library
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## A sneak peek from inside:
 
-### `npm test`
+### Log new meeting notes
+![image](https://user-images.githubusercontent.com/70920006/113286364-017b7900-92e4-11eb-97ac-8ae558d15e7d.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Meeting History
+![image](https://user-images.githubusercontent.com/70920006/113286529-3e477000-92e4-11eb-811c-7c1a0145b73f.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
