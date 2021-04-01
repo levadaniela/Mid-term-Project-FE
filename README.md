@@ -17,7 +17,7 @@ The brief we were given was to build an application which enhances the School of
 * Future ambition - Also to give the coaches visibility of if the meetings are taking place on a regular basis and how they are going.
 
 ## Live Project
-Here is the ![deployed version](https://mymentorlog.netlify.app).
+Here is the [deployed version](https://mymentorlog.netlify.app).
 
 ## Tech Stack
 * React - initialised with Create React App
